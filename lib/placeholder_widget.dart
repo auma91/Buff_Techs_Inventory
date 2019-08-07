@@ -3,6 +3,7 @@ import 'package:flutter_slidable/flutter_slidable.dart';
 class PlaceholderWidget extends StatelessWidget {
   final Color color;
   PlaceholderWidget(this.color);
+  //Dummy widget
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
